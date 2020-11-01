@@ -1,0 +1,6 @@
+[submodule "modules/ecma"]
+	path = modules/ecma
+	url = https://gitee.com/scriptiot/ecma.git
+[submodule "lvgl"]
+	path = lvgl
+	url = https://gitee.com/scriptiot/lvgl.git
