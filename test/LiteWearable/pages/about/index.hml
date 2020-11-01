@@ -1,0 +1,14 @@
+<swiper class="container" index=0 vertical=false duration="500" onchange="swiperChange">
+    <div style="background-color:white;text-align: center;width: 454px;height: 454px;border-width: 0px;">
+        <text style="left: 180px;top:70px;width: 180px;height: 100px;text-align: center;font-size: 30px;font-family: simsun;"> 丁江锋 </text>
+        <image src="./common/images/evm-djf.bin" style="fade-in-time: 200;fade-in-delay: 2000"></image>        
+    </div>
+    <div style="background-color:white;text-align: center;width: 454px;height: 454px;border-width:0px;">
+        <text style="left: 110px;top: 70px;width: 200px;height: 60px;text-align: center;font-size: 30px;font-family:simsun;"> EVM QQ 群 </text>
+        <image src="./common/images/evm-qq.bin" style="fade-in-time: 200;fade-in-delay: 2200"></image>
+    </div>
+    <div style="background-color:white;text-align: center;width: 454px;height: 454px;border-width: 0px;">
+        <text style="left: 110px;top: 70px;width: 200px;height: 60px;text-align: center;font-size: 30px;font-family:simsun;"> EVM微信公众号 </text>
+        <image src="./common/images/evm-gzh.bin" style="fade-in-time: 200;fade-in-delay: 2400"></image>
+    </div>
+</swiper>

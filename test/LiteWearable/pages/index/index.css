@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    width: 454px;
+    height: 454px;
+    border-width: 2px;
+    border-radius: 2px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.out-layer-ring {
+    top: 320px;
+    left: 120px;
+    padding: 3px;
+    width: 300px;
+    height: 20px;
+    stroke-width: 35x;
+    border-width: 1px;
+    border-color: white;
+    background-color: black;
+}
+
+image {
+    left: 190px;
+    top: 150px;
+}

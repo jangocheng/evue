@@ -1,0 +1,11 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem1">
+            <switch checked="false">
+            </switch>
+        </list-item>
+        <list-item id="listitem1">
+            <switch checked="true"></switch>
+        </list-item>
+    </list>
+</div>

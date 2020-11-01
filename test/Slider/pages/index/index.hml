@@ -1,0 +1,13 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem1">
+            <slider min="0" max="100" value="25"></slider>
+        </list-item>
+        <list-item id="listitem2">
+            <slider min="0" max="100" value="50"></slider>
+        </list-item>
+        <list-item id="listitem2">
+            <slider min="0" max="100" value="75"></slider>
+        </list-item>
+    </list>
+</div>

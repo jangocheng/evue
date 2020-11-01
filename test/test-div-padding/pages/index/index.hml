@@ -1,0 +1,14 @@
+<div style="width: 350px;height: 350px;border-width: 1px;border-style: solid;border-color: green;left: 50px;top: 50px;margin: 50px;padding: 10px;">
+    <div style="width: 100px;height: 100px;border-width: 1px; border-style: solid; border-color: green;padding: 50px;">
+        <text style="font-size: 50px; color: red;padding: 10px;">Hello,World</text>
+    </div>
+    <div style="left: 100px;width: 100px;height: 100px;border-width: 1px; border-style: solid; border-color: green;padding: 20px 20px;">
+        <text style="font-size: 50px; color: red;padding: 10px;">Hello,World</text>
+    </div>
+    <div style="left: 200px;width: 100px;height: 100px;border-width: 1px; border-style: solid; border-color: green;padding: 5px 10px 15px;">
+        <text style="font-size: 50px; color: red;padding: 10px;">Hello,World</text>
+    </div>
+    <div style="top:100px;width: 100px;height: 100px;border-width: 1px; border-style: solid; border-color: green;padding: 5px 10px 15px 20px;">
+        <text style="font-size: 50px; color: red;padding: 10px;">Hello,World</text>
+    </div>
+</div>

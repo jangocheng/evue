@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>skin/gt2.png</file>
+        <file>skin/logo.png</file>
+    </qresource>
+</RCC>

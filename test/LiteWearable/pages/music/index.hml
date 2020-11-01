@@ -1,0 +1,15 @@
+<div class="container">
+    <image src="./common/images/pingfanzhilu.bin"></image>
+    <div class="container-wrap">
+        <text style="top: 50px;color: white;width: 454px;height: 35px;text-align: center;font-family: simsun;font-size: 30px;">平凡之路</text>
+        <text style="top: 80px;color: white;width: 454px;height: 30px;text-align: center;font-family: simsun;font-size: 20px;">朴树</text>
+        <image src="./common/images/appbar.control.fastforward.bin" style="top: 150px;left: 70px;"></image>
+        <image src="./common/images/appbar.control.pause.bin" style="top: 150px;left: 180px;"></image>
+        <image src="./common/images/appbar.control.rewind.bin" style="top: 150px;left: 290px;"></image>
+        <progress type="horizontal" percent="30" style="color: yellow;"></progress>
+        <image src="./common/images/appbar.repeat.bin" style="top: 280px;left: 70px;"></image>
+        <image src="./common/images/appbar.sound.3.bin" style="top: 280px;left: 180px;"></image>
+        <image src="./common/images/appbar.new.window.bin" style="top: 280px;left: 290px;"></image>
+    </div>
+    <image src="./common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

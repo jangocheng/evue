@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    width: 454px;
+    height: 454px;
+    border-width: 2px;
+    border-radius: 2px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.list-container {
+    width: 300px;
+    height: 280px;
+    left: 75px;
+    top: 110px;
+    border-width: 0px;
+    background-color: black;
+}
+
+.list-item-wrap {
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 40px;
+    margin: 0px;
+    padding: 5px;
+    border-width: 0px;
+    background-color: black;
+}
+
+.title-wrap {
+    width: 330px;
+    height: 24px;
+    border-width: 0px;
+    background-color: black;
+}
+
+.left-sub-title {
+    left: 30px;
+    width: 70px;
+    height: 24px;
+    color: white;
+    font-size: 20px;
+    font-family: simsun;
+}
+
+.right-sub-title {
+    left: 250px;
+    width: 70px;
+    height: 24px;
+    color: white;
+    font-size: 20px;
+    font-family: simsun;
+}
+
+progress {
+    top: 30px;
+    width: 292px;
+}

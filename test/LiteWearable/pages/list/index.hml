@@ -1,0 +1,25 @@
+<div class="container">
+    <text style="top: 30px;color: white;width: 454px;height: 35px;text-align: center;font-family: simsun;font-size: 30px;">综合</text>
+    <list class="list-container">
+        <list-item class="list-item">
+            <image src="./common/images/speed.bin"></image>
+            <text style="top: 20px;left: 210px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 20px;">总距离</text>
+            <text style="top: 50px;left: 210px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 30px;">100.42</text>
+            <text style="top: 58px;left: 290px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 20px;">公里</text>
+        </list-item>
+        <list-item class="list-item">
+            <image src="./common/images/distance.bin"></image>
+            <text style="top: 20px;left: 210px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 20px;">运动时间</text>
+            <text style="top: 50px;left: 210px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 30px;">07:23:39</text>
+            <!-- <text style="top: 58px;left: 290px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 20px;">公里</text> -->
+        </list-item>
+        <list-item class="list-item">
+            <image src="./common/images/hotpower.bin"></image>
+            <text style="top: 20px;left: 210px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 20px;">热量</text>
+            <text style="top: 50px;left: 210px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 30px;">2755</text>
+            <text style="top: 58px;left: 290px;color: white;width: 100px;height: 35px;font-family: simsun;font-size: 20px;">千卡</text>
+        </list-item>
+    </list>
+
+    <image src="./common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

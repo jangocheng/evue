@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    width: 454px;
+    height: 454px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.list-container {
+    width: 300px;
+    height: 300px;
+    left: 75px;
+    top: 90px;
+    border-width: 0px;
+    background-color: black;
+}
+
+.list-item {
+    width: 454px;
+    height: 100px;
+    left: 0px;
+    background-color: black;
+    border-width: 0px;
+    border-color: red;
+}
+
+image {
+    top: 20px;
+    left: 120px;
+    background-color: green;
+}
+
+.icon-img {
+    width: 64px;
+    height: 64px;
+    margin: 20px;
+}

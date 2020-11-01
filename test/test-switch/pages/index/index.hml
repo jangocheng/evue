@@ -1,0 +1,16 @@
+<div class="container">
+    <list class="list-container">
+        <list-item class="listitem">
+            <switch checked="false" style="width: 150px;height: 30px;"></switch>
+        </list-item>
+        <list-item class="listitem">
+            <switch checked="true" style="width: 50px;padding: 5px;margin-top: 20px;"></switch>
+        </list-item>
+        <list-item class="listitem">
+            <switch checked="true" style="border-width:1px; border-color: red;border-radius: 10px;"></switch>
+        </list-item>
+        <list-item class="listitem">
+            <switch checked="true" style="background-color: red;"></switch>
+        </list-item>
+    </list>
+</div>

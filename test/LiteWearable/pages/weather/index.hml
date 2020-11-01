@@ -1,0 +1,14 @@
+<div class="container">
+    <text style="top: 30px;color: white;width: 454px;height: 35px;text-align: center;font-family: simsun;font-size: 30px;">杭州</text>
+    <text style="top: 70px;width: 454px;height: 50px;text-align: center;font-family: simsun;font-size: 20px;">晴</text>
+
+    <image src="./common/images/sun.bin" style="top: 100px;left: 160px;"></image>
+    <text style="top: 240px;color: white;width: 454px;height: 40px;text-align: center;font-size: 30px;">20 ℃摄氏度</text>
+    
+    <text style="top: 290px;left: 100px;width: 170px;height: 35px;color: white;font-family: simsun;font-size: 20px;">最高 25 ℃摄氏度</text>
+    <text style="top: 290px;left: 250px;width: 170px;height: 35px;font-family: simsun;font-size: 20px;">最低 15 ℃摄氏度</text>
+    <text style="top: 320px;width: 454px;height: 30px;text-align: center;color: green;font-family: simsun;font-size: 20px;">优 35</text>
+    <text style="top: 350px;width: 454px;height: 30px;text-align: center;font-family: simsun;font-size: 20px;">更新时间：00:00 AM</text>
+
+    <image src="./common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

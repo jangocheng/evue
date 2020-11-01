@@ -1,0 +1,32 @@
+/* index.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0px;
+    top: 0px;
+    width: 454px;
+    height: 454px;
+}
+.todo-wraper {
+    width: 454px;
+    height: 300px;
+    top: 50px;
+}
+.todo-item {
+    width: 454px;
+    height: 80px;
+    flex-direction: column;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    background-color: black;
+}
+.todo-title {
+    width: 454px;
+    height: 40px;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    border-radius: 10px;
+}

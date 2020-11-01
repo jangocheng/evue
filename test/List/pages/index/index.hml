@@ -1,0 +1,37 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem1">
+            <text class="title">
+                List 1
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <image style="width: 60px; height: 60px;"></image>
+        </list-item>
+
+        <list-item id="listitem2">
+            <slider style="width: 60px; height: 10px;"></slider>
+        </list-item>
+
+        <list-item id="listitem2">
+            <text class="title">
+                List 4
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <text class="title">
+                List 5
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <text class="title">
+                List 6
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <text class="title">
+                List 7
+            </text>
+        </list-item>
+    </list>
+</div>

@@ -1,0 +1,6 @@
+<div class="container">
+    <text style="left: 140px;top:30px;width: 180px;height: 60px;text-align: center;font-size: 30px;font-family: simsun;"> 演示Demo </text>
+    <image src="./common/images/microphone565.bin" style="left:80px; top:120px; text-align: center;padding-left: 40px; padding-top: 40px; border-width:1px; border-color:red;"></image>
+    <image src="./common/images/phone565.bin" style="left: 80px; top: 248px; text-align: center;margin: 10px;" />
+    <image src="./common/images/voice565.bin" style="left: 80px; top: 366px; text-align: center;margin: 10px;" />
+</div>

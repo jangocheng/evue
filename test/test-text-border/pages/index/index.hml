@@ -1,0 +1,8 @@
+<div style="width: 350px;height: 350px;border-width: 1px;border-style: solid;border-color: black;left: 50px;top: 50px;margin: 50px;">
+    <text style="left: 50px;top: 50px;font-size: 20px;">hello,world</text>
+    <text style="left: 50px;top: 100px;border-width: 3px;padding: 5px;">border width</text>
+    <text style="left: 50px;top: 130px;border-width:1px;border-color: red;padding: 5px;">border color</text>
+    <text style="left: 50px;top: 170px;border-width:1px;border-radius: 5px;padding: 5px;">border radius</text>
+    <text style="left: 50px;top: 200px;font-size: 20px;border-right-width: 1px;border-top-width: 2px;border-bottom-width: 3px;border-left-width: 4px;">hello,world</text>
+    <text style="left: 50px;top: 230px;font-size: 20px;border-right-color: red;border-top-color: blue;border-bottom-color: green;border-left-color: yellow;">hello,world</text>
+</div>

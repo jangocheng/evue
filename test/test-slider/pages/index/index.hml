@@ -1,0 +1,16 @@
+<div class="container">
+    <list class="list-container">
+        <list-item class="listitem">
+            <slider min="0" max="100" value="25" style="padding: 1px;margin-top: 20px;border-width: 1px;border-color: red;"></slider>
+        </list-item>
+        <list-item class="listitem">
+            <slider min="0" max="100" value="50" style="width: 150px;height: 30px;"></slider>
+        </list-item>
+        <list-item class="listitem">
+            <slider min="0" max="100" value="75" style="background-color: red;"></slider>
+        </list-item>
+        <list-item class="listitem">
+            <slider min="0" max="100" value="100"></slider>
+        </list-item>
+    </list>
+</div>

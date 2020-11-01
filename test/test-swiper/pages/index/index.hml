@@ -1,0 +1,14 @@
+<swiper autoplay=true interval=1000 vertical=true duration=100 style="width: 350px;height: 350px;border-width: 1px;border-style: solid;border-color: black;left: 50px;top: 50px;margin: 50px;">
+    <div style="width: 350px;height: 350px;background-color: red;">
+        <text>box 1</text>
+    </div>
+    <div style="width: 350px;height: 350px;background-color: green;">
+        <text>box 2</text>
+    </div>
+    <div style="width: 350px;height: 350px;background-color: yellow;">
+        <text>box 3</text>
+    </div>
+    <div style="width: 350px;height: 350px;background-color: blue;">
+        <text>box 4</text>
+    </div>
+</swiper>

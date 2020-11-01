@@ -1,0 +1,9 @@
+<div class="container">
+    <image src="./common/images/evm-logo-128×128.bin" style="top: 70px;left: 160px;"></image>
+
+    <!-- <text style="top: 220px;color: white;font-size: 30px;width: 454px;height: 35px;text-align: center;">Hello Developer!</text> -->
+    <marquee scrollamount="50" style="top: 240px;left: 104px;width: 240px;height: 35px;text-align: center;color: white;font-size: 30px;">Hello Developer!</marquee>
+    <text style="top: 280px;color: white;font-size: 20px;width: 454px;height: 25px;text-align: center;">Power by EVM</text>
+
+    <progress type="horizontal" percent="30" class="out-layer-ring" style="top: 320px;left: 130px;"></progress>
+</div>

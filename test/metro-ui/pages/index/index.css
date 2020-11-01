@@ -1,0 +1,36 @@
+.container {
+    height: 454px;
+    width: 454px;
+    background-color: black;
+}
+
+.magnet {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    border-radius: 0px;
+    border-width: 0px;
+}
+
+.left-top {
+    top: 5px;
+    left: 5px;
+}
+
+.right-top {
+    top: 5px;
+    left: 215px;
+}
+
+.left-bottom {
+    top: 215px;
+    left: 5px;
+}
+
+.right-bottom {
+    top: 215px;
+    left: 215px;
+}

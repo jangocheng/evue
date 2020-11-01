@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    width: 454px;
+    height: 454px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.list-container {
+    width: 454px;
+    height: 150px;
+    left: 110px;
+    top: 250px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border-width: 0px;
+}
+
+.icon-img {
+    width: 64px;
+    height: 64px;
+    margin: 20px;
+}

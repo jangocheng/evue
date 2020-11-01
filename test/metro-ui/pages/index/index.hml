@@ -1,0 +1,44 @@
+<swiper class="container" index=1 vertical=false duration="500" onchange="swiperChange">
+    <div class="container" onclick="onclick" onswipe="onswipe">
+        <div class="magnet" style="background-color: green;top: 5px; left: 5px;">
+            <image src="./common/images/appbar.ie.bin"></image>
+        </div>
+        <div class="magnet" style="top: 5px;left: 215px;">
+            <image src="./common/images/appbar.office.365.bin"></image>
+        </div>
+        <div class="magnet" style="top: 215px;left: 5px;">
+            <image src="./common/images/appbar.office.access.bin"></image>
+        </div>
+        <div class="magnet" style="background-color: green;top: 215px;left: 215px;">
+            <image src="./common/images/appbar.office.bin"></image>
+        </div>
+    </div>
+    <div class="container" onswipe="onswipe" >
+        <div class="magnet" style="background-color: red;top: 5px; left: 5px;">
+            <image src="./common/images/appbar.ie.bin"></image>
+        </div>
+        <div class="magnet" style="top: 5px;left: 215px;">
+            <image src="./common/images/appbar.office.365.bin"></image>
+        </div>
+        <div class="magnet" style="top: 215px;left: 5px;">
+            <image src="./common/images/appbar.office.access.bin"></image>
+        </div>
+        <div class="magnet" style="background-color: orange;top: 215px;left: 215px;">
+            <image src="./common/images/appbar.office.bin"></image>
+        </div>
+    </div>
+    <div class="container" onswipe="onswipe">
+        <div class="magnet" style="background-color: green;top: 5px; left: 5px;">
+            <image src="./common/images/appbar.ie.bin"></image>
+        </div>
+        <div class="magnet" style="top: 5px;left: 215px;">
+            <image src="./common/images/appbar.office.365.bin"></image>
+        </div>
+        <div class="magnet" style="top: 215px;left: 5px;">
+            <image src="./common/images/appbar.office.access.bin"></image>
+        </div>
+        <div class="magnet" style="background-color: green;top: 215px;left: 215px;">
+            <image src="./common/images/appbar.office.bin"></image>
+        </div>
+    </div>
+</swiper>

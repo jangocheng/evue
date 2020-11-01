@@ -1,0 +1,7 @@
+<div style="width: 454px;height: 454px;left: 0px;top: 0px;margin: 0px;padding: 150px;background-color: black;">
+    <text style="left: 70px; top: 100px;font-size: 20px;color: white;border-width: 1px;border-style: solid;border-color: white;padding: 15px;">padding</text>
+    <text style="left: 70px; top: 160px;font-size: 20px;color: white;border-width: 1px;border-style: solid;border-color: white;padding-left: 15px;">padding-left</text>
+    <text style="left: 70px; top: 200px;font-size: 20px;color: white;border-width: 1px;border-style: solid;border-color: white;padding-right: 15px;">padding-right</text>
+    <text style="left: 70px; top: 240px;font-size: 20px;color: white;border-width: 1px;border-style: solid;border-color: white;padding-top: 15px;">padding-top</text>
+    <text style="left: 70px; top: 300px;font-size: 20px;color: white;border-width: 1px;border-style: solid;border-color: white;padding-bottom: 15px;">padding-bottom</text>
+</div>

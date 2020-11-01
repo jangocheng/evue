@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>skin/gt2.png</file>
+        <file>skin/logo.png</file>
+    </qresource>
+</RCC>

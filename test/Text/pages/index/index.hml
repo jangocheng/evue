@@ -1,0 +1,37 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem2" style="height: 80px">
+            <text style="font-size:30px; letter-spacing: 2px; text-overflow: clip; border-width: 1px; border-color: green; text-align: left; width: 200px; height: 50px; margin-top: 10px; color: green; font-size: 38px; font-family: HYQiHei-65S; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+        </list-item>
+        <list-item id="listitem2" style="height: 80px">
+            <text style="font-size:22px; letter-spacing: 4px; text-overflow: longbreak; border-width: 1px; border-color: green;text-align: center; width: 100px; height: 50px; margin-top: 10px; color: blue; font-size: 38px; font-family: HYQiHei-65S; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <text style="font-size:24px; letter-spacing: 8px; text-overflow: longexpand; border-width: 1px; border-color: green; text-align: right; width: 100px; height: 50px; margin-top: 10px; color: green; font-size: 38px; font-family: HYQiHei-65S; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <text style="font-size:28px; letter-spacing: 8px; text-overflow: scroll; animation-speed: 180px; border-width: 1px; border-color: green; text-align: right; width: 100px; height: 50px; margin-top: 10px; color: green; font-size: 38px; font-family: HYQiHei-65S; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+        </list-item>
+        <list-item id="listitem2">
+            <text style="font-size:32px; letter-spacing: 8px; text-overflow: scrollcircle; animation-speed: 40px; border-width: 1px; border-color: green; text-align: right; width: 100px; height: 50px; margin-top: 10px; color: green; font-size: 38px; font-family: HYQiHei-65S; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+        </list-item>
+        <list-item id="listitem2" style="height: 400px">
+            <text style="font-size:38px; letter-spacing: 8px; text-overflow: longbreak; border-width: 1px; border-color: green; text-align: right; width: 200px; height: 50px; margin-top: 10px; color: green; font-size: 38px; font-family: HYQiHei-65S; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+            <text style="font-size:25px; letter-spacing: 8px; text-overflow: longbreak; border-width: 1px; border-color: green; text-align: right; width: 200px; height: 50px; margin-top: 10px; color: green; font-size: 38px; font-family: simsun; ">
+                abcdEFGH1234567890金刚川，地对空榴弹炮顶顶顶
+            </text>
+        </list-item>
+    </list>
+</div>

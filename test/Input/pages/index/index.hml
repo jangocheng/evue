@@ -1,0 +1,13 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem1">
+            <input type="button" style="left: 85px; width: 130px; height: 40px" value="button" onclick="onclick" onlongpress="onlongpress" />
+        </list-item>
+        <list-item id="listitem1">
+            <input type="button" style="left: 85px; width: 130px; height: 40px" checked="true" value="checked button" onclick="backMain"></input>
+        </list-item>
+        <list-item id="listitem1">
+            <input type="checkbox" style="left: 85px; width: 130px; height: 40px" checked="true" value="checkbox" onclick="backMain"></input>
+        </list-item>
+    </list>
+</div>

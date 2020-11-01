@@ -1,0 +1,52 @@
+.container {
+    height: 454px;
+    width: 454px;
+    background-color: red;
+}
+
+.pm25value {
+    text-align: center;
+    font-size: 38px;
+    color: green;
+    width: 454px;
+    height: 50px;
+    top: 275px;
+}
+
+.pm25name {
+    text-align: center;
+    color: green;
+    width: 454px;
+    height: 50px;
+    top: 335px;
+}
+
+.locationtext {
+    text-align: center;
+    color: green;
+    width: 454px;
+    height: 180px;
+    top: 20px;
+    left: 190px;
+    border-width: 1px;
+    border-color: black;
+}
+
+.circleProgress {
+    left: 137px;
+    top: 137px;
+    width: 180px;
+    height: 180px;
+}
+
+image {
+    width: 100px;
+    height: 100px;
+}
+
+.airquality {
+    top: 220px;
+    text-align: center;
+    width: 454px;
+    height: 40px;
+}

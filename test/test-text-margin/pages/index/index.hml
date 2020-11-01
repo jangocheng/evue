@@ -1,0 +1,20 @@
+<div style="width: 450px;height: 450px;background-color: yellow;">
+    <text style="left: 100px;top: 70px;font-size: 25px;color: black;text-align: center;border-width: 1px;border-style: dashed;border-color: black;padding: 10px;">Hello,World</text>
+    <text style="left: 200px;top: 70px;font-size: 25px;border-width: 1px;border-style: dashed;border-color: black;margin: 30px;padding: 10px;">margin</text>
+    <text style="left: 280px;top: 70px;font-size: 25px;border-width: 1px;border-style: dashed;border-color: black;margin-left: 30px;padding: 10px;">margin-left</text>
+    <div style="width: 200px;height: 50px;border-width: 1px;border-style: dashed;border-color: black;left: 130px;top: 120px;padding: 10px;">
+        <text style="margin: 20px;font-size: 20px;border-width: 1px;border-style: dashed;border-color: red;">text-margin</text>
+    </div>
+    <div style="width: 200px;height: 50px;border-width: 1px;border-style: dashed;border-color: black;left: 130px;top: 180px;padding: 10px;">
+        <text style="margin-left: 20px;font-size: 20px;border-width: 1px;border-style: dashed;border-color: red;">margin-left</text>
+    </div>
+    <div style="width: 200px;height: 50px;border-width: 1px;border-style: dashed;border-color: black;left: 130px;top: 240px;padding: 10px;">
+        <text style="margin-right: 20px;font-size: 20px;border-width: 1px;border-style: dashed;border-color: red;">margin-right right right</text>
+    </div>
+    <div style="width: 200px;height: 50px;border-width: 1px;border-style: dashed;border-color: black;left: 130px;top: 300px;padding: 10px;">
+        <text style="margin-top: 20px;font-size: 20px;border-width: 1px;border-style: dashed;border-color: red;">margin-top</text>
+    </div>
+    <div style="width: 200px;height: 50px;border-width: 1px;border-style: dashed;border-color: black;left: 130px;top: 360px;padding: 10px;">
+        <text style="margin-bottom: 20px;font-size: 20px;border-width: 1px;border-style: dashed;border-color: red;">margin-bottom</text>
+    </div>
+</div>

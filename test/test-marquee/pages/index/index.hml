@@ -1,0 +1,19 @@
+<div class="container">
+    <list class="list-container">
+        <list-item class="listitem">
+            <marquee scrollamount="3" style="width: 120px; height: 50px; margin-top: 10px; color: red; border-width: 1px; border-color: red; border-radius: 5px; font-size: 38px; font-family: HYQiHei-65S; ">
+                show-abcedfghijklmn
+            </marquee>
+        </list-item>
+        <list-item class="listitem">
+            <marquee scrollamount="30" style="border-width: 1px; border-color: red; padding: 5px; margin-top: 10px; color: red; font-size: 38px; font-family: HYQiHei-65S; ">
+                show-abcedfghijklmn
+            </marquee>
+        </list-item>
+        <list-item class="listitem">
+            <marquee scrollamount="300" style="border-width: 1px; border-color: red; padding: 5px; width: 100px; height: 50px; margin-top: 10px; color: red; font-size: 38px; font-family: HYQiHei-65S; ">
+                show-abcedfghijklmn
+            </marquee>
+        </list-item>
+    </list>
+</div>

@@ -1,0 +1,68 @@
+.container {
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    width: 454px;
+    height: 454px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.list-container {
+    width: 300px;
+    height: 300px;
+    left: 75px;
+    top: 90px;
+    border-width: 0px;
+    background-color: black;
+}
+
+.list-item {
+    width: 454px;
+    height: 100px;
+    left: 0px;
+    background-color: black;
+    border-width: 0px;
+    border-color: red;
+}
+
+.app-icon {
+    top: 20px;
+    left: 100px;
+}
+
+.arrow-icon {
+    top: 18px;
+    left: 300px;
+}
+
+.maintitle {
+    top: 40px;
+    left: 180px;
+    color: white;
+    width: 130px;
+    height: 35px;
+    font-family: simsun;
+    font-size: 30px;
+}
+
+.maintitle-note {
+    top: 58px;
+    left: 260px;
+    color: white;
+    width: 100px;
+    height: 35px;
+    font-family: simsun;
+    font-size: 20px;
+}
+
+.subtitle {
+    top: 20px;
+    left: 180px;
+    color: white;
+    width: 100px;
+    height: 35px;
+    font-family: simsun;
+    font-size: 20px;
+}

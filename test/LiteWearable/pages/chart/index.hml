@@ -1,0 +1,13 @@
+<div class="container">
+    <text style="top: 60px;font-size: 30px;font-family: simsun;width: 454px;height: 35px;text-align: center;color: white;">心率曲线</text>
+    <chart style="left: 72px;top:100px;width: 300px;height: 200px;background-color: black;border-width: 0px;"></chart>
+    <text style="font-size: 20px;top: 295px;left: 72px;color: white;width: 180px;height: 25px;">00:00:00</text>
+    <text style="font-size: 20px;top: 295px;left: 280px;color: white;width: 180px;height: 25px;">01:08:14</text>
+    <text style="font-size: 20px;font-family: simsun;top: 330px;left: 150px;width: 150px;height: 25px;">最大/158</text>
+    <text style="font-size: 20px;font-family: simsun;top: 330px;left: 230px;width: 150px;height: 25px;">最小/73</text>
+    <text style="font-size: 20px;font-family: simsun;top: 360px;left: 140px;width: 70px;height: 20px;">平均</text>
+    <text style="font-size: 30px;top: 350px;left: 200px;color: white;width: 72px;height: 30px;">144</text>
+    <text style="font-size: 20px;font-family: simsun;top: 360px;left: 260px;width: 70px;height: 20px;">次/分</text>
+
+    <image src="./common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

@@ -1,0 +1,41 @@
+<div class="container">
+    <text style="width: 454px;height: 35px;text-align: center;color: white;top: 60px;font-size: 30px;font-family: simsun;">心率区间</text>
+    <list class="list-container">
+        <list-item class="list-item-wrap">
+            <div class="title-wrap">
+                <text class="left-sub-title">极限</text>
+                <text class="right-sub-title">0分钟</text>
+            </div>
+            <progress type="horizontal" percent="30" style="color: yellow;"></progress>
+        </list-item>
+        <list-item class="list-item-wrap">
+            <div class="title-wrap">
+                <text class="left-sub-title" style="width: 150px;">无氧耐力</text>
+                <text class="right-sub-title">0分钟</text>
+            </div>
+            <progress type="horizontal" percent="50" style="color: orange;"></progress>
+        </list-item>
+        <list-item class="list-item-wrap">
+            <div class="title-wrap">
+                <text class="left-sub-title" style="width: 150px;">有氧耐力</text>
+                <text class="right-sub-title">9分钟</text>
+            </div>
+            <progress type="horizontal" percent="80" style="color: green;"></progress>
+        </list-item>
+        <list-item class="list-item-wrap">
+            <div class="title-wrap">
+                <text class="left-sub-title">燃脂</text>
+                <text class="right-sub-title">51分钟</text>
+            </div>
+            <progress type="horizontal" percent="50" style="color: blue;"></progress>
+        </list-item>
+        <list-item class="list-item-wrap">
+            <div class="title-wrap">
+                <text class="left-sub-title">热身</text>
+                <text class="right-sub-title">7分钟</text>
+            </div>
+            <progress type="horizontal" percent="80" style="color: red;"></progress>
+        </list-item>
+    </list>
+    <image src="./common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
+</div>

@@ -1,0 +1,4 @@
+<div style="background-color:white;text-align: center;width: 454px;height: 454px;border-width: 0px;">
+    <text style="left: 180px;top:70px;width: 180px;height: 100px;text-align: center;font-size: 30px;font-family: simsun;"> 丁江锋 </text>
+    <image src="./common/images/evm-djf.bin" style="fade-in-time: 200;fade-in-delay: 2000"></image>        
+</div>

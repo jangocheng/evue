@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    width: 454px;
+    height: 454px;
+    border-width: 2px;
+    border-radius: 2px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+.swiper-container {
+    width: 454px;
+    height: 454px;
+}
+
+.swiper-item {
+    width: 454px;
+    height: 454px;
+    
+}
+
+.bg-color-red {
+    background-color: red;
+}
+
+.bg-color-green {
+    background-color: green;
+}
+
+.bg-color-blue {
+    background-color: blue;
+}
+
+.text-content {
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 60px;
+    left: 50px;
+    top: 10px;
+}
+
+.text-title {
+    font-size: 20px;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+}

@@ -1,0 +1,11 @@
+<div id="id_container" class="container">
+    <div style="width: 200px; height: 50px; left: 30px; top: 10px; border: 0px;">
+        <text> style </text>
+    </div>
+    <div class="class_container1" onpress="onpress" onclick="onclick" onrelease="onrelease" onlongpress="onlongpress">
+        <text> class1 </text>
+    </div>
+    <div class="class_container2">
+        <text> class2 </text>
+    </div>
+</div>

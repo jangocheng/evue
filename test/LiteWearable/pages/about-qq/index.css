@@ -1,0 +1,82 @@
+image {
+    animation-name: xxx;
+    animation-delay: 0;
+    animation-duration: 200;
+    animation-timing-function: linear;
+    animation-fill-mode: none;
+    animation-iteration-count: 1;
+    animation-property: y;
+    animation-property-from: 0;
+    animation-property-to: 120;
+}
+
+text {
+    animation-name: text;
+    animation-delay: 200;
+    animation-duration: 200;
+    animation-timing-function: linear;
+    animation-fill-mode: none;
+    animation-iteration-count: 1;
+    animation-property: x;
+    animation-property-from: 0;
+    animation-property-to: 140;
+}
+
+#id_container {
+    display: flex;
+    width: 454px;
+    height: 454px;
+    border-width: 2px;
+    border-radius: 2px;
+    margin: 0px;
+    padding: 0px;
+    background-color: green;
+}
+
+#list_container {
+    width: 300px;
+    height: 250px;
+    left: 70px;
+    top: 140px;
+}
+
+#separator {
+    width: 454px;
+    height: 4px;
+    background-color: white;
+}
+
+.title {
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 60px;
+    left: 50px;
+    top: 10px;
+}
+
+#id_title {
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+}
+
+#listitem1 {
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 60px;
+    margin: 0px;
+    padding: 10px;
+}
+
+#listitem2 {
+    flex-direction: column;
+    align-items: center;
+    width: 330px;
+    height: 50px;
+    margin: 0px;
+    padding: 5px;
+}

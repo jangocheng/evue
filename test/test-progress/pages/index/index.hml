@@ -1,0 +1,21 @@
+<div class="container">
+    <list class="list-container">
+        <list-item class="list-item">
+            <progress type="horizontal" percent="30"></progress>
+            <progress type="arc" percent="30" style="padding: 5px; width: 80px; height: 80px;stroke-width: 10px;"></progress>
+        </list-item>
+        <list-item class="list-item">
+            <progress type="horizontal" percent="50"></progress>
+            <progress percent="50" style="padding: 5px; width: 80px; height: 80px;margin-top: 2px;color: red;"></progress>
+        </list-item>
+        <list-item class="list-item">
+            <progress type="horizontal" percent="80"></progress>
+            <progress percent="80" style="padding: 5px; width: 80px; height: 80px;border-width: 1px;border-color: red;border-radius: 50%;"></progress>
+        </list-item>
+    </list>
+    <div style="width: 454px;height: 154px;top: 300px;left: 0px;background-color: black;">
+        <progress type="horizontal" percent="30" style="top: 30px;"></progress>
+        <progress type="horizontal" percent="50" class="progress"></progress>
+        <progress percent="50" class="progress-arc"></progress>
+    </div>
+</div>

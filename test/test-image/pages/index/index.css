@@ -1,0 +1,12 @@
+body {
+    /* background-image: "./images/phone565.bin"; */
+    background-color: #345678;
+    opacity: 255;
+}
+
+.container {
+    width: 454px;
+    height: 454px;
+    border-width: 0px;
+    opacity: 0;
+}

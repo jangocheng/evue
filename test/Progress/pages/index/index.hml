@@ -1,0 +1,16 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem2">
+            <progress type="horizontal" percent="30"></progress>
+            <progress percent="30" style="padding:5px; width: 80px; height: 80px; border-width:1px; border-color:red;"></progress>
+        </list-item>
+        <list-item id="listitem2">
+            <progress type="horizontal" percent="50"></progress>
+            <progress percent="50" style="padding:5px; width: 80px; height: 80px;"></progress>
+        </list-item>
+        <list-item id="listitem2">
+            <progress type="horizontal" percent="80"></progress>
+            <progress percent="80" style="padding:5px; width: 80px; height: 80px;"></progress>
+        </list-item>
+    </list>
+</div>

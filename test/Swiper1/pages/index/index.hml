@@ -1,0 +1,26 @@
+<swiper class="container" index=1 vertical=false duration="500" onchange="swiperChange">
+    <div class="container" style="background-color:white;" onclick="onclick" onswipe="onswipe">
+        <text class="airquality" style="color:yellow;">Unhealth</text>
+        <text class="locationtext">ShangHai-1</text>
+        <progress onpress="onpress" onclick="onclick" onrelease="onrelease" onlongpress="onlongpress" class="circleProgress" style="color:yellow;background-Color:gray;" type="arc" onclick="openDetail" percent="{{percent1}}"></progress>
+        <image onclick="onclick"></image>
+        <text class="pm25value">90</text>
+        <text class="pm25name">AQI</text>
+    </div>
+    <div class="container" style="background-color:orange;" onswipe="onswipe" >
+        <text class="airquality" style="color:green;">Good</text>
+        <text class="locationtext">HangZhou-2</text>
+        <progress class="circleProgress" style="color: blue;background-Color:black;" type="arc" onclick="openDetail" percent="{{percent2}}"></progress>
+        <image></image>
+        <text class="pm25value">10</text>
+        <text class="pm25name">AQI</text>
+    </div>
+    <div class="container" style="background-color:orange;" onswipe="onswipe">
+        <text class="airquality" style="color:green;">Good</text>
+        <text class="locationtext">HangZhou-3</text>
+        <progress class="circleProgress" style="color: blue;background-Color:black;" type="arc" onclick="openDetail" percent="{{percent2}}"></progress>
+        <image></image>
+        <text class="pm25value">10</text>
+        <text class="pm25name">AQI</text>
+    </div>
+</swiper>

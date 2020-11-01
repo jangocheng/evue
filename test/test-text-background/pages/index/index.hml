@@ -1,0 +1,7 @@
+<div style="left: 0px;top: 0px;width: 455px;height: 455px;margin: 0px;padding: 0px;border-width: 1px;border-style: solid;border-color: white;background-color: black;">
+    <text style="left: 70px;top: 70px;width: 150px;height: 70px;border-width: 1px;border-style: solid;border-color: white;color: white;padding: 20px;font-size: 10px;">background</text>
+    <text style="left: 70px;top: 140px;width: 150px;height: 70px;border-width: 1px;border-style: solid;border-color: white;color: yellow;padding: 20px;font-size: 10px;">background</text>
+    <text style="left: 70px;top: 230px;width: 150px;height: 30px;background-color: white;font-size: 20px;border-width: 1px;border-style: solid;border-color: white;color: red;">helloworld</text>
+    <!-- <text style="left: 70px;top: 250px;border-width: 1px;border-style: solid;border-color: white;color: white;background-image: url(./bg-image.png);">background-image</text> -->
+    <text style="left: 70px;top: 280px;width: 150px;height: 30px;border-width: 1px;border-style: solid;border-color: white;color: white;background-size: 100px;background-repeat: repeat;background-position: center;background-color: red;">background-size</text>
+</div>

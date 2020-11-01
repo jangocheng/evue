@@ -1,0 +1,29 @@
+<swiper class="container" index=0 vertical=false duration="500" onchange="swiperChange">
+    <div style="background-color:white;text-align:center;width:454px; height:454px; border-width:0px;">
+        <text style="left:140px; top:70px; width: 180px; height: 60px; text-align: center; font-size: 30px; font-family:simsun;"> 演示Demo </text>
+        <image src="./logo.bin" style="left:80px; top:120px; text-align: center;"></image>
+    </div>
+    <div style="background-color:white;text-align:center;width:454px; height:454px;border-width:0px;">
+        <text style="left:180px; top:70px; width: 180px; height: 100px; text-align: center; font-size: 30px; font-family:simsun;"> 图标 </text>
+        <div style="flex-direction: row; align-items:center; border-width: 0px; left:90px; top:120px; width: 300px; height: 60px; fade-in-time: 100; fade-in-delay: 100">
+            <image src="./bin/light/appbar.add.bin" style="fade-in-time: 200; fade-in-delay: 200"></image>
+            <image src="./bin/light/appbar.clear.bin"  style="fade-in-time: 200; fade-in-delay: 400"></image>
+            <image src="./bin/light/appbar.cd.bin"  style="fade-in-time: 200; fade-in-delay: 600"></image>
+        </div>
+        <div style="flex-direction: row; left:90px; top:180px; border-width: 0px; width: 300px; height: 60px;">
+            <image src="./bin/light/appbar.disk.bin" style="fade-in-time: 200; fade-in-delay: 800" ></image>
+            <image src="./bin/light/appbar.app.bin" style="fade-in-time: 200; fade-in-delay: 1000"></image>
+            <image src="./bin/light/appbar.alert.bin" style="fade-in-time: 200; fade-in-delay: 1200"></image>
+        </div>
+        <div style="flex-direction: row; left:90px; top:240px; border-width: 0px; width: 300px; height: 60px;">
+            <image src="./bin/light/appbar.cart.bin" style="fade-in-time: 200; fade-in-delay: 1400"></image>
+            <image src="./bin/light/appbar.clock.bin" style="fade-in-time: 200; fade-in-delay: 1600"></image>
+            <image src="./bin/light/appbar.adobe.bridge.bin" style="fade-in-time: 200; fade-in-delay: 1800"></image>
+        </div>
+        <div style="flex-direction: row; left:90px; top:300px; border-width: 0px; width: 300px; height: 60px;">
+            <image src="./bin/light/appbar.arrow.expand.bin" style="fade-in-time: 200; fade-in-delay: 2000"></image>
+            <image src="./bin/light/appbar.delete.bin" style="fade-in-time: 200; fade-in-delay: 2200"></image>
+            <image src="./bin/light/appbar.browser.chrome.bin" style="fade-in-time: 200; fade-in-delay: 2400"></image>
+        </div>
+    </div>
+</swiper>

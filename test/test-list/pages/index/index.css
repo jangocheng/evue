@@ -1,0 +1,24 @@
+/* index.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0px;
+    top: 0px;
+    width: 454px;
+    height: 454px;
+}
+.todo-wraper {
+    width: 454px;
+    height: 300px;
+}
+.todo-item {
+    width: 454px;
+    height: 80px;
+    flex-direction: column;
+}
+.todo-title {
+    width: 454px;
+    height: 40px;
+    text-align: center;
+}

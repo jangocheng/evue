@@ -1,0 +1,17 @@
+<div class="container">
+    <image src="./common/images/home-bg.bin" class="page-bg"></image>
+
+    <text style="top: 30px;color: white;width: 70px;height: 25px;text-align: center;font-family: simsun;font-size: 20px;">5/20</text>
+    <text style="top: 30px;color: white;width: 70px;height: 25px;text-align: center;font-family: simsun;font-size: 20px;">星期天</text>
+    
+    <image src="./common/images/dribbble.bin" class="app-icon"></image>
+    <text style="top: 30px;color: white;width: 454px;height: 35px;text-align: center;font-family: simsun;font-size: 30px;">菜单</text>
+    <text style="top: 30px;color: white;width: 454px;height: 35px;text-align: center;font-family: simsun;font-size: 30px;">菜单</text>
+
+
+    <text style="top: 30px;color: white;width: 454px;height: 35px;text-align: center;font-family: simsun;font-size: 30px;">菜单</text>
+
+    <image src="./common/images/appbar.chevron.right.bin" class="arrow-icon"></image>
+    <image src="./common/images/evernote.bin" class="app-icon"></image>
+    <image src="./common/images/appbar.chevron.right.bin" class="arrow-icon"></image>
+</div>
