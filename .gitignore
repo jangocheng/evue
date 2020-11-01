@@ -1,0 +1,39 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+
+# Executables
+*.out
+*.app
+
+*.Debug
+*.Release
+*.rc
+*.zip
+
+debug
+release
+build*
+distwin/
+build/
+
+*.pro.user
+vm.pro.user
+vm.pro.user.*
+
+docs/.*
+
+node_modules
+build
+release_*
+.npmrc
+
+bin/x86_64-linux-gnu/test/
+bin/x86_64-window-mingw/test/
