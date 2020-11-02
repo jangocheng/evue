@@ -1,4 +1,7 @@
-release_windows:
+release_libhml:
+	cd ../evm && make libhml_windows
+
+release_windows:release_libhml
 	rm -rf build
 	mkdir -p build
 	cd build && qmake ../src/evue.pro && make -j4
@@ -6,8 +9,6 @@ release_windows:
 	cp ./src/evue-sdl2/SDL2.dll ./bin/x86_64-window-mingw
 	cp build/evuesimulator/evuesimulator.exe ./bin/x86_64-window-mingw
 	cd ./bin/x86_64-window-mingw && windeployqt.exe evuesimulator.exe
-
-
 
 publish_windows:release_windows
 	cp test -rf ./bin/x86_64-window-mingw

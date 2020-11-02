@@ -1,0 +1,14 @@
+<div id="id_container" class="container">
+    <list id="list_container">
+        <list-item id="listitem1">
+            <input type="button" style="left: 85px; width: 130px; height: 40px" value="Back" onclick="onBack" onlongpress="onlongpress"></input>
+        </list-item>
+        <list-item id="listitem1">
+            <switch checked="false">
+            </switch>
+        </list-item>
+        <list-item id="listitem1">
+            <switch checked="true"></switch>
+        </list-item>
+    </list>
+</div>

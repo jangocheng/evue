@@ -1,4 +1,10 @@
-<div style="background-color:white;text-align: center;width: 454px;height: 454px;border-width: 0px;">
-    <text style="left: 180px;top:70px;width: 180px;height: 100px;text-align: center;font-size: 30px;font-family: simsun;"> 丁江锋 </text>
-    <image src="./common/images/evm-djf.bin" style="fade-in-time: 200;fade-in-delay: 2000"></image>        
+<div style="background-color:black;text-align: center;width: 454px;height: 454px;border-width: 0px;">
+    <text class="main-title" style="left: 180px;top: 20px;width: 180px;height: 35px;text-align: center;font-size: 30px;font-family: simsun;color: white;"> 丁江锋 </text>
+
+    <text style="left: 0px;top: 60px;width: 454px;height: 25px;text-align: center;font-size: 20px;font-family: simsun; color: gray;"> 为防止群二维码过期，请加该微信</text>
+    <text style="left: 0px;top: 80px;width: 454px;height: 25px;text-align: center;font-size: 20px;font-family: simsun; color: gray;"> 接头暗号备注：[EVUE入群] </text>
+
+    <image src="./common/images/evm-djf.bin" style="left: 74px;"></image>
+
+    <image src="./common/images/appbar.return.bin" style="top: 180px;left: 10px;" onclick="onReturn"></image>
 </div>
