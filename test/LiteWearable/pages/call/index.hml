@@ -1,7 +1,7 @@
 <div class="container">
     <text style="top: 30px;color: white;width: 454px;height: 30px;text-align: center;font-size: 25px;">08:12</text>
     <image src="./common/images/girl.bin" style="top: 70px;left: 150px;border-radius: 50%;"></image>
-    <text style="top: 230px;color: white;width: 454px;height: 40px;text-align: center;font-size: 30px;font-family: simsun;">张沫凡</text>
+    <text style="top: 230px;color: white;width: 454px;height: 40px;text-align: center;font-size: 30px;font-family: simsun;">EVM HR</text>
     <text style="top: 270px;color: white;width: 454px;height: 50px;text-align: center;font-size: 25px;">00:02</text>
     <div class="list-container">
         <image src="./common/images/voice.bin" class="icon-img"></image>
