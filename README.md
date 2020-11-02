@@ -1,9 +1,9 @@
 一、EVUE简介
 ========================================
 
-+ EVM GIthub 地址： https://github.com/scriptiot/evm
++ EVM Github 地址： https://github.com/scriptiot/evm
 + EVM Gitee  地址： https://gitee.com/scriptiot/evm
-+ EVUE GIthub 地址： https://github.com/scriptiot/evue
++ EVUE Github 地址： https://github.com/scriptiot/evue
 + EVUE Gitee  地址： https://gitee.com/scriptiot/evue
 
 
