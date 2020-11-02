@@ -1,5 +1,5 @@
 <div class="container">
-    <image src="./common/images/evm-logo-128×128.bin" style="top: 70px;left: 160px;"></image>
+    <image src="./common/images/evue-logo.bin" style="top: 70px;left: 150px;"></image>
 
     <!-- <text style="top: 220px;color: white;font-size: 30px;width: 454px;height: 35px;text-align: center;">Hello Developer!</text> -->
     <marquee scrollamount="50" style="top: 240px;left: 104px;width: 240px;height: 35px;text-align: center;color: white;font-size: 30px;">Hello Developer!</marquee>

@@ -27,7 +27,7 @@ MainWindow::MainWindow(char * file, QWidget *parent)
     setAttribute(Qt::WA_NoBackground);
     setFixedHeight(626);
     setFixedWidth(530);
-    setWindowTitle("EVM OpenHarmony JS");
+    setWindowTitle("EVUE Simulator");
     setWindowIcon(QIcon(":/skin/logo.png"));
 
     GuiThread* thread = new GuiThread(file);

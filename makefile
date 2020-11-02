@@ -42,6 +42,8 @@ publish_evue:
 
 	rm -rf release_evue/src/evue.pro.user
 
+	rm -rf ../evue/test
+	rm -rf ../evue/doc
 	cp -rf release_evue/* ../evue
 
 
